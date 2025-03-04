@@ -1,0 +1,10 @@
+test1 used dask and numba with no cython module
+
+test2 used many cython function delarations with dask arrays and no numba module
+
+test3 used multiprocessing with virtual memory pools. dask and numba used
+
+test used few cython functions declarations with dask arrays and no numba
+
+
+In overral conclution, test 4 is the fasttest followed test 2. multiprocessing seems to be the lowest
